@@ -1,7 +1,7 @@
 # Product preview card component
 
 ## Objective:
-Create a replica of the frontend mentor challenge called: Product preview card component.
+Create a replica of the frontend mentor challenge called: [Product preview card component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
 ## How:
 - Using only HTML and CSS
